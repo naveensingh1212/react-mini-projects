@@ -1,6 +1,6 @@
 # React Mini Projects
 
-Welcome to the **React Mini Projects** repository! 🚀 This repository contains a collection of small yet powerful projects built using React. Each project is designed to improve your React skills and provide practical use cases for various concepts in frontend development.
+Welcome to the **React Mini Projects** repository! 🚀 This repository contains a collection of small yet powerful projects built using React. Each project is designed to improve  React skills and provide practical use cases for various concepts in frontend development.
 
 ## 📌 Features
 - Multiple mini-projects using **React.js**
